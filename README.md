@@ -1,62 +1,30 @@
-<div align="center">
+# fightheyyy
 
-![vibe living pixel banner](./assets/pixel-room.svg)
+**vibe living**
 
-<h1>fightheyyy</h1>
+AI Agent / Runtime / Memory System / Engineering Notes
 
-<p>
-  <strong>vibe living</strong><br />
-  building small tools, agent workflows, and tiny systems that make work feel lighter.
-</p>
+我正在围绕 **XiaoBa-CLI** 这个 Agent Runtime，尝试构建一套更开放的 Agent infrastructure。
 
-<p>
-  <a href="https://github.com/fightheyyy/XiaoBa-CLI">XiaoBa-CLI</a>
-  /
-  <a href="https://github.com/fightheyyy/SuperGoal">SuperGoal</a>
-  /
-  <a href="https://fightheyyy.github.io">site</a>
-</p>
+它不只是一个命令行工具，而是一个可以承载多角色协作、工具调用、skills 扩展、长期记忆和多端接入的基础层。我希望 Agent 不只停留在聊天窗口里，而是能进入日常工作流、桌面端、Web 服务，甚至本地设备和物理空间。
 
-</div>
+[Website](https://fightheyyy.github.io) / [GitHub](https://github.com/fightheyyy)
 
-```txt
-+------------------------------------------------------------+
-| fightheyyy.exe                                             |
-+------------------------------------------------------------+
-| status : vibe living                                       |
-| mode   : making AI-native tools feel personal and useful   |
-| stack  : TypeScript / Python / Swift / R                   |
-| focus  : CLI tools / agents / memory / workflow systems    |
-+------------------------------------------------------------+
-```
+## 正在做的事
 
-### save points
+| 方向 | 项目 | 关键词 |
+| --- | --- | --- |
+| Agent Runtime | [XiaoBa-CLI](https://github.com/buildsense-ai/XiaoBa-CLI) | runtime、session、tools、skills、roles、permissions |
+| Memory System | [GauzMem / Mem_System](https://github.com/fightheyyy/Mem_System) | 长期记忆、知识图谱、向量检索、多跳扩展 |
+| Writing Agent | [Vibe Writing Platform](https://fightheyyy.github.io/#projects) | Plan and Execute、Review Agent、RAG、可追溯写作 |
 
-| project | vibe |
-| --- | --- |
-| [XiaoBa-CLI](https://github.com/fightheyyy/XiaoBa-CLI) | agent-oriented CLI experiments and role workflows |
-| [SuperGoal](https://github.com/fightheyyy/SuperGoal) | Codex skills plus a macOS prompt compiler for stable goal-mode development |
-| [BioSkills](https://github.com/fightheyyy/BioSkills) | research and bioinformatics-flavored tooling experiments |
-| [Mem_System](https://github.com/fightheyyy/Mem_System) | notes, memory, and personal knowledge-system exploration |
+## 最近在想
 
-### inventory
+- subagent 调度、role 机制、工具调用、会话隔离与异步任务生命周期
+- 长期记忆、知识图谱、向量检索、多跳推理和记忆代谢
+- 桌宠、实体陪伴设备、本地自动化和多模态交互
+- 上下文压缩、日志记录、回归测试、限流重试和模型降级
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1b1b2f?style=for-the-badge&logo=typescript&logoColor=8be9fd" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-1b1b2f?style=for-the-badge&logo=python&logoColor=f1fa8c" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-1b1b2f?style=for-the-badge&logo=swift&logoColor=ff79c6" alt="Swift" />
-  <img src="https://img.shields.io/badge/R-1b1b2f?style=for-the-badge&logo=r&logoColor=bd93f9" alt="R" />
-</p>
+## Stack
 
-### current quest
-
-- designing tools that remember context without getting heavy
-- turning rough ideas into usable little systems
-- exploring agent workflows, role-based development, and personal automation
-- keeping the interface soft, the code sharp, and the vibe alive
-
-```txt
-> booting tiny future...
-> loading taste...
-> done.
-```
+TypeScript / Python / Node.js / Electron / RAG / Knowledge Graph / WebSocket

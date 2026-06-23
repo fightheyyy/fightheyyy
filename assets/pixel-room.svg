@@ -1,0 +1,78 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>vibe living pixel room</title>
+  <desc>A pixel art night workspace with a monitor showing vibe living.</desc>
+  <style>
+    .txt { font-family: "Courier New", monospace; font-weight: 700; }
+    .small { font-family: "Courier New", monospace; font-weight: 700; font-size: 16px; }
+  </style>
+
+  <rect width="960" height="360" fill="#151521"/>
+
+  <rect x="0" y="300" width="960" height="60" fill="#202033"/>
+  <rect x="0" y="316" width="960" height="8" fill="#2d2b45"/>
+  <rect x="0" y="348" width="960" height="12" fill="#0f0f18"/>
+
+  <rect x="70" y="42" width="250" height="170" fill="#25253a"/>
+  <rect x="86" y="58" width="218" height="138" fill="#0f172a"/>
+  <rect x="102" y="72" width="86" height="46" fill="#213b61"/>
+  <rect x="188" y="72" width="100" height="46" fill="#182944"/>
+  <rect x="102" y="118" width="86" height="62" fill="#182944"/>
+  <rect x="188" y="118" width="100" height="62" fill="#10243b"/>
+
+  <rect x="124" y="88" width="12" height="12" fill="#f6d365"/>
+  <rect x="150" y="152" width="8" height="8" fill="#8be9fd"/>
+  <rect x="238" y="96" width="8" height="8" fill="#ff79c6"/>
+  <rect x="258" y="144" width="8" height="8" fill="#bd93f9"/>
+
+  <rect x="390" y="64" width="12" height="12" fill="#f6d365"/>
+  <rect x="454" y="36" width="8" height="8" fill="#8be9fd"/>
+  <rect x="664" y="50" width="10" height="10" fill="#f6d365"/>
+  <rect x="770" y="86" width="8" height="8" fill="#ff79c6"/>
+  <rect x="820" y="38" width="8" height="8" fill="#bd93f9"/>
+
+  <rect x="610" y="88" width="190" height="22" fill="#2d2b45"/>
+  <rect x="626" y="58" width="22" height="30" fill="#8be9fd"/>
+  <rect x="656" y="50" width="22" height="38" fill="#ff79c6"/>
+  <rect x="686" y="66" width="22" height="22" fill="#f1fa8c"/>
+  <rect x="738" y="54" width="46" height="34" fill="#34324f"/>
+  <rect x="750" y="66" width="22" height="10" fill="#50fa7b"/>
+
+  <rect x="152" y="256" width="656" height="22" fill="#3a3157"/>
+  <rect x="182" y="278" width="28" height="58" fill="#2d2b45"/>
+  <rect x="744" y="278" width="28" height="58" fill="#2d2b45"/>
+
+  <rect x="344" y="138" width="272" height="124" fill="#0c0c14"/>
+  <rect x="360" y="154" width="240" height="92" fill="#22243a"/>
+  <rect x="376" y="170" width="208" height="16" fill="#50fa7b"/>
+  <rect x="376" y="204" width="70" height="10" fill="#8be9fd"/>
+  <rect x="458" y="204" width="126" height="10" fill="#bd93f9"/>
+  <rect x="448" y="262" width="64" height="26" fill="#181827"/>
+  <rect x="416" y="288" width="128" height="16" fill="#2d2b45"/>
+
+  <text x="480" y="188" text-anchor="middle" fill="#f8f8f2" class="txt" font-size="28">vibe living</text>
+  <text x="480" y="236" text-anchor="middle" fill="#a6adc8" class="small">&gt; build / remember / play</text>
+
+  <rect x="230" y="216" width="70" height="40" fill="#24243a"/>
+  <rect x="246" y="192" width="38" height="24" fill="#50fa7b"/>
+  <rect x="258" y="170" width="14" height="22" fill="#50fa7b"/>
+  <rect x="228" y="252" width="76" height="10" fill="#3a3157"/>
+
+  <rect x="650" y="210" width="84" height="46" fill="#24243a"/>
+  <rect x="666" y="196" width="16" height="14" fill="#f1fa8c"/>
+  <rect x="690" y="190" width="16" height="20" fill="#8be9fd"/>
+  <rect x="714" y="184" width="16" height="26" fill="#ff79c6"/>
+  <rect x="654" y="252" width="88" height="10" fill="#3a3157"/>
+
+  <rect x="120" y="242" width="44" height="14" fill="#bd93f9"/>
+  <rect x="126" y="226" width="32" height="16" fill="#ff79c6"/>
+  <rect x="784" y="234" width="48" height="22" fill="#8be9fd"/>
+  <rect x="792" y="220" width="32" height="14" fill="#50fa7b"/>
+
+  <text x="84" y="334" fill="#6c7086" class="small">fightheyyy.exe</text>
+  <text x="734" y="334" fill="#6c7086" class="small">pixel mode</text>
+
+  <rect x="0" y="0" width="960" height="8" fill="#34324f"/>
+  <rect x="0" y="352" width="960" height="8" fill="#34324f"/>
+  <rect x="0" y="0" width="8" height="360" fill="#34324f"/>
+  <rect x="952" y="0" width="8" height="360" fill="#34324f"/>
+</svg>

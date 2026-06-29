@@ -16,7 +16,6 @@ AI Agent / Runtime Harness / Memory System / Engineering Notes
 | --- | --- | --- |
 | Agent Harness | [XiaoBa-CLI](https://github.com/buildsense-ai/XiaoBa-CLI) | runtime、session、tools、skills、roles、permissions |
 | Memory System | [GauzMem / Mem_System](https://github.com/fightheyyy/Mem_System) | 长期记忆、知识图谱、向量检索、多跳扩展 |
-| Writing Agent | [Vibe Writing Platform](https://fightheyyy.github.io/#projects) | Plan and Execute、Review Agent、RAG、可追溯写作 |
 
 ## 最近在想
 
